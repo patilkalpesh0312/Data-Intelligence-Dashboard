@@ -47,7 +47,6 @@
     <td align="center" width="50%"><b>Product Sales</b><br><img src="./Images/PRODUCT_SALES.jpg" alt="Product Sales pie chart" width="100%" /></td>
     <td align="center" width="50%"><b>Regional Sales</b><br><img src="./Images/REGIONAL_SALES.jpg" alt="Regional sales chart" width="100%" /></td>
   </tr>
- ```html
 <tr>
   <td align="center" width="50%">
     <b>Monthly Sales Trend</b><br>
@@ -56,13 +55,9 @@
          width="100%" />
   </td>
   <td align="center" width="50%">
-    <b>Weekly Sales</b><br>
-    <img src="./Images/TOTAL-SALES_PER-WEEKS.jpg"
-         alt="Weekly Sales"
-         width="100%" />
-  </td>
-</tr>
-
+  <b>Weekly Sales</b><br>
+<img src="https://github.com/patalkalpesh0312/Data-Intelligence-Dashboard/blob/main/Images/TOTAL_SALES-PER-WEEKS.jpg?raw=true" alt="Weekly Sales" width="100%" />
+</td>
 ## 🧰 Tools & Techniques
 
 - **Microsoft Excel**
