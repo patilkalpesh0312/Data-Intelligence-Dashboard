@@ -47,16 +47,21 @@
     <td align="center" width="50%"><b>Product Sales</b><br><img src="./Images/PRODUCT_SALES.jpg" alt="Product Sales pie chart" width="100%" /></td>
     <td align="center" width="50%"><b>Regional Sales</b><br><img src="./Images/REGIONAL_SALES.jpg" alt="Regional sales chart" width="100%" /></td>
   </tr>
- <tr>
+ ```html
+<tr>
   <td align="center" width="50%">
-    <b>Monthly Sales Trend</b><br><br>
-    <img src="https://raw.githubusercontent.com/patalkalpesh0312/Data-Intelligence-Dashboard/main/Images/TOTAL-SALES-PER-MONTHS.jpg"
-         alt="Monthly Sales Trend Chart"
+    <b>Monthly Sales Trend</b><br>
+    <img src="./Images/TOTAL-SALES_PER-MONTHS.jpg"
+         alt="Monthly Sales Trend"
          width="100%" />
   </td>
-    <td align="center" width="50%"><b>Weekly Sales</b><br><img src="./Images/TOTAL-SALES-PER-WEEKS.jpg" alt="Weekly sales chart" width="100%" /></td>
-  </tr>
-</table>
+  <td align="center" width="50%">
+    <b>Weekly Sales</b><br>
+    <img src="./Images/TOTAL-SALES_PER-WEEKS.jpg"
+         alt="Weekly Sales"
+         width="100%" />
+  </td>
+</tr>
 
 ## 🧰 Tools & Techniques
 
