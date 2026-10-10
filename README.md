@@ -23,7 +23,7 @@
 ## 📊 Dashboard Preview
 
 <div align="center">
-  <img src="./Images/DASHBOARD.png" alt="Full Customer Transaction Dashboard with slicers, KPIs, charts, and India regional map" width="100%" />
+  <img src="./Images/CUSTOMER%20TRANSACTION%20DASHBOARD.jpg" alt="Full Customer Transaction Dashboard with slicers, KPIs, charts, and India regional map" width="100%" />
 </div>
 
 ## ✨ Dashboard Highlights
@@ -41,19 +41,20 @@
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>Total Revenue KPI</b><br><img src="./Images/TOTAL_REVENUE_KPI.png" alt="Total Revenue KPI" width="100%"></td>
-    <td align="center" width="50%"><b>Top 3 Customers</b><br><img src="./Images/TOP_3_CUSTOMERS.png" alt="Top 3 Customers" width="100%"></td>
+    <td align="center" colspan="2"><b>India Regional Map</b><br><img src="./Images/INDIA-REGIONAL_MAP.jpg" alt="India regional map" width="90%" /></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><b>Product Sales</b><br><img src="./Images/PRODUCT_SALES.png" alt="Product Sales pie chart" width="100%"></td>
-    <td align="center" width="50%"><b>India Regional Map</b><br><img src="./Images/INDIA_REGIONAL_MAP.png" alt="India regional map" width="100%"></td>
+    <td align="center" width="50%"><b>Product Sales</b><br><img src="./Images/PRODUCT_SALES.jpg" alt="Product Sales pie chart" width="100%" /></td>
+    <td align="center" width="50%"><b>Regional Sales</b><br><img src="./Images/REGIONAL_SALES.jpg" alt="Regional sales chart" width="100%" /></td>
   </tr>
-  <tr>
-    <td align="center" width="50%"><b>Regional Sales</b><br><img src="./Images/REGIONAL_SALES.png" alt="Regional sales chart" width="100%"></td>
-    <td align="center" width="50%"><b>Monthly Sales Trend</b><br><img src="./Images/MONTHLY_SALES.png" alt="Monthly sales trend line chart" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><b>Weekly Sales</b><br><img src="./Images/WEEKLY_SALES.png" alt="Weekly sales chart" width="90%"></td>
+ <tr>
+  <td align="center" width="50%">
+    <b>Monthly Sales Trend</b><br><br>
+    <img src="https://raw.githubusercontent.com/patalkalpesh0312/Data-Intelligence-Dashboard/main/Images/TOTAL-SALES-PER-MONTHS.jpg"
+         alt="Monthly Sales Trend Chart"
+         width="100%" />
+  </td>
+    <td align="center" width="50%"><b>Weekly Sales</b><br><img src="./Images/TOTAL-SALES-PER-WEEKS.jpg" alt="Weekly sales chart" width="100%" /></td>
   </tr>
 </table>
 
@@ -102,7 +103,7 @@ The dashboard uses a consistent **`#5B001E` burgundy theme**, pink-toned charts,
 
 ## 🚀 How to Explore
 
-1. Open the Excel workbook.
+1. Open `Data Intelligence Dashboard.xlsx`.
 2. Go to the **DASHBOARD** sheet.
 3. Use the Region, Months (Date), and Category slicers to filter the dashboard.
 4. Review the KPI cards and charts to compare customer, product, regional, monthly, and weekly performance.
@@ -110,23 +111,22 @@ The dashboard uses a consistent **`#5B001E` burgundy theme**, pink-toned charts,
 
 ## 📁 Repository Structure
 
-Keep the screenshot assets alongside this README using this structure so GitHub can display them:
+Keep the image files inside the `Images` folder with these exact filenames. GitHub paths are case-sensitive.
 
 ```text
 Data-Intelligence-Dashboard/
 ├── README.md
+├── Data Intelligence Dashboard.xlsx
 └── Images/
-    ├── DASHBOARD.png
-    ├── TOTAL_REVENUE_KPI.png
-    ├── TOP_3_CUSTOMERS.png
-    ├── PRODUCT_SALES.png
-    ├── INDIA_REGIONAL_MAP.png
-    ├── REGIONAL_SALES.png
-    ├── MONTHLY_SALES.png
-    └── WEEKLY_SALES.png
+    ├── CUSTOMER TRANSACTION DASHBOARD.jpg
+    ├── INDIA-REGIONAL_MAP.jpg
+    ├── PRODUCT_SALES.jpg
+    ├── REGIONAL_SALES.jpg
+    ├── TOTAL-SALES-PER-MONTHS.jpg
+    └── TOTAL-SALES-PER-WEEKS.jpg
 ```
 
-
+## 🙌 Thanks for Visiting!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D9D&center=true&vCenter=true&width=850&lines=Thanks+for+visiting!;Keep+learning+and+building;Star+the+repository+if+you+found+it+useful!" alt="Animated closing greeting" />
