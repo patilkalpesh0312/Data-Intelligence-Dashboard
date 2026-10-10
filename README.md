@@ -126,7 +126,6 @@ Data-Intelligence-Dashboard/
     └── TOTAL-SALES-PER-WEEKS.jpg
 ```
 
-## 🙌 Thanks for Visiting!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D9D&center=true&vCenter=true&width=850&lines=Thanks+for+visiting!;Keep+learning+and+building;Star+the+repository+if+you+found+it+useful!" alt="Animated closing greeting" />
