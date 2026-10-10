@@ -41,23 +41,32 @@
 
 <table>
   <tr>
-    <td align="center" colspan="2"><b>India Regional Map</b><br><img src="./Images/INDIA-REGIONAL_MAP.jpg" alt="India regional map" width="90%" /></td>
+    <td align="center" colspan="2">
+      <b>India Regional Map</b><br>
+      <img src="./Images/INDIA-REGIONAL_MAP.jpg" alt="India Regional Map" width="90%" />
+    </td>
   </tr>
   <tr>
-    <td align="center" width="50%"><b>Product Sales</b><br><img src="./Images/PRODUCT_SALES.jpg" alt="Product Sales pie chart" width="100%" /></td>
-    <td align="center" width="50%"><b>Regional Sales</b><br><img src="./Images/REGIONAL_SALES.jpg" alt="Regional sales chart" width="100%" /></td>
+    <td align="center" width="50%">
+      <b>Product Sales</b><br>
+      <img src="./Images/PRODUCT_SALES.jpg" alt="Product Sales" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Regional Sales</b><br>
+      <img src="./Images/REGIONAL_SALES.jpg" alt="Regional Sales" width="100%" />
+    </td>
   </tr>
-<tr>
-  <td align="center" width="50%">
-    <b>Monthly Sales Trend</b><br>
-    <img src="./Images/TOTAL-SALES_PER-MONTHS.jpg"
-         alt="Monthly Sales Trend"
-         width="100%" />
-  </td>
-  <td align="center" width="50%">
-  <b>Weekly Sales</b><br>
-<img src="https://github.com/patalkalpesh0312/Data-Intelligence-Dashboard/blob/main/Images/TOTAL_SALES-PER-WEEKS.jpg?raw=true" alt="Weekly Sales" width="100%" />
+  <tr>
+<td align="center" width="50%">
+  <b>Monthly Sales Trend</b><br>
+  <img src="./Images/TOTAL-SALES_PER-MONTHS.jpg" alt="Monthly Sales Trend" width="100%" />
 </td>
+    <td align="center" width="50%">
+      <b>Weekly Sales</b><br>
+      <img src="./Images/TOTAL_SALES-PER_WEEKS.jpg" alt="Weekly Sales" width="100%" />
+    </td>
+  </tr>
+</table>
 ## 🧰 Tools & Techniques
 
 - **Microsoft Excel**
